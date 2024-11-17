@@ -13,4 +13,5 @@ alias ls='ls -G'
 alias la='ls -la'
 
 alias cdb='cd ~/Checkout/bMenu'
+alias cdt='cd ~/Checkout/tLog'
 alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'
